@@ -50,7 +50,7 @@ Aplicación web desarrollada con React para buscar, filtrar y explorar personaje
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone https://github.com/Roxana-Solano/proyecto-final-modulo3-react.git
 cd nombre-del-repo
 ```
 
