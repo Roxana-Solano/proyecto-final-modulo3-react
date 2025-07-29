@@ -10,5 +10,5 @@ export default defineConfig({
       usePolling: true,
     },
   },
-  base: "/modulo-3-evaluacion-final-Roxana-Solano/",
+  base: "/proyecto-final-modulo3-react/",
 });
