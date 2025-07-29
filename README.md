@@ -141,6 +141,4 @@ npm run deploy
 
 Realizado por **Roxana Solano** como proyecto final del Módulo 3 en el bootcamp de Adalab (Promo 53).
 
-```
-
-```
+---
